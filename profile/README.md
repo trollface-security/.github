@@ -10,7 +10,9 @@
 <hr>
 
 <p align=center>
-trolling at its finest.
+in popbob we trust 
+ <br>
+All activities that we do are not illegal. These activities are permitted by the owners of said accounts, emails, networks, databases and websites. 
 
 site: https://trollsec.cf
 
