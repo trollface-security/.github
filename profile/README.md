@@ -1,5 +1,6 @@
 <p align=center>
-<img src="https://avatars.githubusercontent.com/u/101381689?s=500&v=4">
+<img src="https://raw.githubusercontent.com/trollface-security/.github/main/profile/TROLLSECLIGHT.png#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/trollface-security/.github/main/profile/trollsecdark.png#gh-light-mode-only">
  </p>
  
  <div align=center>
