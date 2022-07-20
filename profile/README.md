@@ -1,6 +1,6 @@
 <p align=center>
-<img src="https://raw.githubusercontent.com/trollface-security/.github/main/profile/trollseclight1.png#gh-dark-mode-only" width=800 height=210>
-<img src="https://raw.githubusercontent.com/trollface-security/.github/main/profile/trollsecdark1.png#gh-light-mode-only"width=800 height=210>
+<img src="https://raw.githubusercontent.com/trollface-security/.github/main/profile/trolllight1.png#gh-dark-mode-only"width=600 height=200>
+<img src="https://raw.githubusercontent.com/trollface-security/.github/main/profile/trolldark1.png#gh-light-mode-only" width=600 height=200>
  </p>
  <hr>
  <div align=center>
