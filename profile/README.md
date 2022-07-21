@@ -20,9 +20,7 @@ Trollface Security is a collective of programmers and people interested in the g
         <a href="https://github.com/trollface-security/#gh-light-mode-only" target="_blank">
             <img width="24" src="https://github.com/latte-soft/.github/raw/master/assets/icons/light-mode/github-icon-black.svg#gh-light-mode-only" />
         </a>
-        <a href="mailto:god@trollsec.cf" target="_blank">
-            <img width="24" src="https://github.com/latte-soft/.github/raw/master/assets/icons/light-mode/email-icon-black.svg#gh-light-mode-only" />
-        </a>
+
         
 <a href="https://trollsec.cf/#gh-dark-mode-only" target="_blank">
             <img width="24" src="https://github.com/latte-soft/.github/raw/master/assets/icons/dark-mode/website-icon-white.svg#gh-dark-mode-only" />
