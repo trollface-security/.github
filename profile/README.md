@@ -9,7 +9,7 @@
 <p align=center>
 Exploit Research and Development Organization
 <br>
-Trollface Security is a collective of programmers and people interested in the merits of cybersecurity. We believe in the rules of Open-Source Software (OSS) and we develop, maintain and test our own systems.
+Trollface Security is a collective of programmers and people interested in the guiding principles of cybersecurity. We believe in the merits of Open-Source Software (OSS) and we develop, maintain and test our own systems. We welcome any contributions from members around the globe to create organized and maintainable repositories dedicated to exploitation research.
 <br><br>
         <a href="https://trollsec.cf/#gh-light-mode-only" target="_blank">
             <img width="24" src="https://github.com/latte-soft/.github/raw/master/assets/icons/light-mode/website-icon-black.svg#gh-light-mode-only" />
